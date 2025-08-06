@@ -1,6 +1,6 @@
 <img src="../assets/logo.svg" width="100" alt="The OneSuite logo">
 
-<br>
+---
 
 **OneSuite** is a collection of tools focused on software security, reverse engineering, and code protection.
 
@@ -11,4 +11,4 @@ We hope to see you soon!
 ## Links
 
 - **Website:** [https://obfuscator.one/](https://obfuscator.one/)
-- **Discord:** [Join the discussion](https://discord.com/users/YOUR_DISCORD_ID)
+- **Discord:** [Join the discussion](https://discord.gg/sQ9vvvAsGJ)
