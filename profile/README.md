@@ -4,7 +4,7 @@
 
 **OneSuite** is a collection of tools focused on software security, reverse engineering, and code protection.
 
-Its primary goal is to make powerful obfuscation, decompilation, and analysis technologies accessible for educational use and professional use, while promoting ethical and legal practices in the field.
+Its primary goal is to make powerful obfuscation, decompilation, and analysis technologies accessible for educational and professional use, while promoting ethical and legal practices in the field.
 
 We hope to see you soon!
 
